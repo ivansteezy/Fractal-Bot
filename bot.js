@@ -9,7 +9,7 @@ setInterval(tweetear, 1000*10);
 
 function tweetear(){
     
-    var cmd  = 'processing-java --sketch="C:/Users/Iván/Desktop/Gif Bot/RenderFractal" --run'
+    var cmd  = 'processing-java --sketch="/RenderFractal" --run'
     exec(cmd, processing);
 
     function processing(){
