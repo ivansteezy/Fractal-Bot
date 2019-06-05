@@ -1,0 +1,15 @@
+{
+  "name": "pokemon_bot",
+  "version": "1.0.0",
+  "description": "A cute bot that post Pokémon gifs on Twitter",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iván Ayala",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "twit": "^2.2.11"
+  }
+}
