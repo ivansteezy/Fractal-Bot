@@ -9,7 +9,7 @@
   "author": "Iván Ayala",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "twit": "^2.2.11"
   }
 }
